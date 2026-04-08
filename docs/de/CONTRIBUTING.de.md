@@ -1,6 +1,6 @@
-# Mitwirken an SkyLink-AI-Frequency
+# Mitwirken an OpenHF-Systems
 
-Vielen Dank für Dein Interesse an SkyLink-AI-Frequency.
+Vielen Dank für Dein Interesse an OpenHF-Systems.
 
 Dieses Projekt versteht sich als offener, gemeinschaftsorientierter Raum für Ideen, Diskussion, technisches Nachdenken und zukunftsorientiertes Experimentieren im Bereich Amateurfunk, SDR, Signalverarbeitung und KI-gestützte Kommunikationskonzepte.
 
@@ -34,7 +34,7 @@ Die Teilnahme an Diskussionen oder konzeptioneller Arbeit ersetzt nicht die pers
 
 ## Projektverständnis
 
-SkyLink-AI-Frequency soll sein:
+OpenHF-Systems soll sein:
 - offen
 - transparent
 - technisch neugierig
