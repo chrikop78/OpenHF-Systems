@@ -47,6 +47,19 @@ Die Kombination aus:
 
 SkyLink-AI-Frequency versteht sich dabei ausdrücklich als offenes Gemeinschaftsprojekt für Funkamateure, Entwickler, SDR-Enthusiasten und technisch interessierte Mitdenkende.
 
+## Was dieses Projekt nicht ist
+
+SkyLink-AI-Frequency ist aktuell:
+
+- kein fertiges Produkt
+- kein einsatzbereites Notfallkommunikationssystem
+- keine bereits abgeschlossene technische Lösung
+- keine autonome Funk-KI
+- keine Rechtsberatung
+- kein Projekt, das bestehende gesetzliche oder regulatorische Vorgaben umgehen soll
+
+Es handelt sich derzeit um einen offenen, strukturierten Denk-, Diskussions- und Entwicklungsraum für eine technische Vision im Amateurfunkkontext.
+
 ## Wichtiger Hinweis
 
 Wer sich später aktiv an technischer Umsetzung, Tests oder funkbezogenen Experimenten beteiligen möchte, muss die jeweils geltenden nationalen gesetzlichen und regulatorischen Vorgaben des eigenen Landes eigenverantwortlich prüfen und einhalten.
