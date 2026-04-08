@@ -1,4 +1,4 @@
-# Contributing to SkyLink-AI-Frequency
+# Contributing to OpenHF-Systems
 
 Thank you for your interest in SkyLink-AI-Frequency.
 
@@ -34,7 +34,7 @@ Participation in discussions or conceptual work does not replace personal respon
 
 ## Project mindset
 
-SkyLink-AI-Frequency is intended as:
+OpenHF-Systems is intended as:
 - open
 - transparent
 - technically curious
