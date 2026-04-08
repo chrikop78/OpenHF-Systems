@@ -1,8 +1,8 @@
-# SkyLink-AI-Frequency
+# OpenHF-Systems
 
 ## Projektidee
 
-SkyLink-AI-Frequency ist eine offene Projektidee im Bereich Amateurfunk, SDR und künstliche Intelligenz.
+OpenHF-Systems ist eine offene Projektidee im Bereich Amateurfunk, SDR und künstliche Intelligenz.
 
 Ziel ist es, zu erforschen, wie KI-gestützte Systeme Funkamateure künftig bei experimentellen digitalen Kommunikations- und Übertragungsansätzen unterstützen könnten — insbesondere unter realen Ausbreitungsbedingungen, mit menschlicher Aufsicht und innerhalb des jeweils geltenden rechtlichen Rahmens.
 
@@ -20,7 +20,7 @@ Ich bin offen für neue Gedanken, konstruktive Kritik und gemeinsames Weiterdenk
 
 ## Vision
 
-Die große Vision hinter SkyLink-AI-Frequency ist ein KI-gestütztes Assistenzsystem zwischen Funkamateur und SDR-Transceiver.
+Die große Vision hinter OpenHF-Systems ist ein KI-gestütztes Assistenzsystem zwischen Funkamateur und SDR-Transceiver.
 
 Ein solches System könnte künftig in Echtzeit Signale beobachten, analysieren und technische Rahmenparameter bewerten. Langfristig wäre denkbar, dass mehrere standardisierte KI-Assistenzsysteme an verschiedenen Standorten unter menschlicher Kontrolle gemeinsam daran arbeiten, neue oder kombinierte digitale Übertragungswege zu testen und unter realen Funkbedingungen zu bewerten.
 
@@ -45,11 +45,11 @@ Die Kombination aus:
 
 öffnet aus meiner Sicht ein hochspannendes Feld für neue Denkansätze.
 
-SkyLink-AI-Frequency versteht sich dabei ausdrücklich als offenes Gemeinschaftsprojekt für Funkamateure, Entwickler, SDR-Enthusiasten und technisch interessierte Mitdenkende.
+OpenHF-Systems versteht sich dabei ausdrücklich als offenes Gemeinschaftsprojekt für Funkamateure, Entwickler, SDR-Enthusiasten und technisch interessierte Mitdenkende.
 
 ## Was dieses Projekt nicht ist
 
-SkyLink-AI-Frequency ist aktuell:
+OpenHF-Systems ist aktuell:
 
 - kein fertiges Produkt
 - kein einsatzbereites Notfallkommunikationssystem
